@@ -154,7 +154,7 @@ exports.config = {
         source: true,
         // <boolean> fail if there are any undefined or pending steps
         strict: false,
-        // <string> (expression) only execute the features or scenarios with tags matching the expression
+        // <string> (expressiotan) only execute the features or scenarios with tags matching the expression
         tagExpression: '',
         // <number> timeout for step definitions
         timeout: 60000,
